@@ -1,0 +1,19 @@
+.descriptionContainer{
+   display: flex;
+   height: auto;
+   width: 30%;
+   padding-top: 5rem;
+   text-transform: uppercase;
+   font-size: 85%;
+}
+
+@media only screen and (max-width: 600px) {
+    .descriptionContainer{
+        display: flex;
+        height: auto;
+        width: 90%;
+        padding-top: 4rem;
+        text-transform: uppercase;
+        font-size: 85%;
+     }
+  }

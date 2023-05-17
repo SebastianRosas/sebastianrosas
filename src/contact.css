@@ -1,0 +1,21 @@
+.contactContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.contactContentContainer{
+    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactContentContainer a{
+   text-decoration: none;
+   color: #115590;
+}

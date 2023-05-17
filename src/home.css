@@ -1,0 +1,11 @@
+.homeContainer{
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+}
+
+.contactContainer{
+    padding-top: 2rem;
+    text-transform: uppercase;
+    font-size: 85%;
+}

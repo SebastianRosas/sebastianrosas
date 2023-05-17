@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "helvetica";
+  src: url(./Assets/typography/helvetica.ttf);
+}
+
+/* *{
+
+} */
+
+body {
+  font-size:  85%;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #000000;
+   font-family: "helvetica";
+   height: auto;
+}
+

@@ -1,0 +1,38 @@
+.navbarContainer {
+    width: 100%;
+    text-align: right;
+    font-size:  100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1%;
+}
+
+.aboutButton{
+    cursor: pointer;
+    transform: rotate(180deg);
+    transition:.3s ease;
+    padding-right: 2rem ;
+}
+
+.navbarLeft {
+    text-align: right;
+}
+
+.aboutButton:hover{
+    transform: rotate(-360deg);
+}
+
+
+@media only screen and (max-width: 600px) {
+    .lenguajeContainer {
+        font-size:  90%;
+    }
+
+    .clock{
+        display: none;
+    }
+    .aboutButton{
+        transform: rotate(0deg);
+    }
+    
+}
