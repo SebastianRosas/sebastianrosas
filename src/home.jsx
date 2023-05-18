@@ -12,7 +12,7 @@ function App() {
         <div className='contactContainer'>
               contact
               <br />
-              <a href="sebastianrosasbruno@gmai.com?Subject=Query for:">sebastianrosasbruno@gmai.com</a>
+              <a href="sebastianrosasbruno@gmail.com?Subject=Query for:">sebastianrosasbruno@gmail.com</a>
         </div>
       <Footer />
     </div>
