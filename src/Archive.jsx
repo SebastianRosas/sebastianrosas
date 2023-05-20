@@ -13,17 +13,29 @@ const Archive = () => {
                       GRAPHIC DESIGNE
                     </div>
                     <div className='columListContainer'>
-                      <div className='titleListContainer'>
-                      ACOPLO - 2022
+                    <div className='titleListContainer'>
+                      CR1S1S<span className='dateArchiveList'>@2023</span>
+                      </div>
+                    <div className='titleListContainer'>
+                      BRUNO<span className='separationArchiveList'>-</span>PARANOIA <span className='dateArchiveList'>@2023</span>
+                      </div>
+                    <div className='titleListContainer'>
+                      ACOPLO<span className='dateArchiveList'>@2022</span>
                       </div>
                       <div className='titleListContainer'>
-                      ACOPLO - 2022
+                      ROCIO LEVANTESI<span className='separationArchiveList'>-</span>ALIMENTAME.JPG <span className='dateArchiveList'>@2022</span>
                       </div>
                       <div className='titleListContainer'>
-                      ACOPLO - 2022
+                      PIWA LA PIWA<span className='separationArchiveList'>-</span>MARGARITA XIRU <span className='dateArchiveList'>@2022</span>
                       </div>
                       <div className='titleListContainer'>
-                      ACOPLO - 2022
+                      AÑO CERO<span className='dateArchiveList'>@2022</span>
+                      </div>
+                      <div className='titleListContainer'>
+                      WOBBLE BOYS<span className='separationArchiveList'>-</span>WOBBLE IS BACK <span className='dateArchiveList'>@2022</span>
+                      </div>
+                      <div className='titleListContainer'>
+                      WOBBLE BOYS<span className='separationArchiveList'>-</span>TIME TO WABBLE <span className='dateArchiveList'>@2021</span>
                       </div>
                     
                     </div>
@@ -34,16 +46,16 @@ const Archive = () => {
                     </div>
                     <div className='columListContainer'>
                     <div className='titleListContainer'>
-                      ACOPLO - 2022
+                      ACOPLO <span className='dateArchiveList'>@2022</span>
                       </div>
                       <div className='titleListContainer'>
-                      ACOPLO - 2022
+                      SIMPLESTUDIO  <span className='dateArchiveList'>@2021</span>
                       </div>
                       <div className='titleListContainer'>
-                      ACOPLO - 2022
+                      SOBREMESA  <span className='dateArchiveList'>@2020</span>
                       </div>
                       <div className='titleListContainer'>
-                      ACOPLO - 2022
+                      RAMIRO  <span className='dateArchiveList'>@2020</span>
                       </div>
                     </div>
               </div>
@@ -53,16 +65,19 @@ const Archive = () => {
                     </div>
                     <div className='columListContainer '>
                     <div className='titleListContainer'>
-                      ACOPLO - 2022
+                      UNTITLED  <span className='dateArchiveList'>@2023</span>
                       </div>
                       <div className='titleListContainer'>
-                      ACOPLO - 2022
+                      UNTITLED  <span className='dateArchiveList'>@2023</span>
                       </div>
                       <div className='titleListContainer'>
-                      ACOPLO - 2022
+                      SHADOWS#  <span className='dateArchiveList'>@2023</span>
                       </div>
                       <div className='titleListContainer'>
-                      ACOPLO - 2022
+                      ESQUEMAS<span className='separationArchiveList'>-</span>2<span className='dateArchiveList'>@2022</span>
+                      </div>
+                      <div className='titleListContainer'>
+                      ESQUEMAS<span className='separationArchiveList'>-</span>1<span className='dateArchiveList'>@2022</span>
                       </div>
                     </div>
               </div>

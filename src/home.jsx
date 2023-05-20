@@ -5,6 +5,7 @@ import Menu from './Menu';
 import Description from './Description';
 
 function App() {
+
   return (
     <div className='homeContainer'>
       <Description />
@@ -12,7 +13,7 @@ function App() {
         <div className='contactContainer'>
               contact
               <br />
-              <a href="sebastianrosasbruno@gmail.com?Subject=Query for:">sebastianrosasbruno@gmail.com</a>
+              <a href="sebastianrosasbruno@gmail.com?Su.com"> </a>
         </div>
       <Footer />
     </div>

@@ -4,22 +4,17 @@
     font-size:  100%;
     display: flex;
     justify-content: space-between;
-    margin-top: 1%;
+    margin-top: 1rem;
 }
 
 .aboutButton{
     cursor: pointer;
-    transform: rotate(180deg);
     transition:.3s ease;
     padding-right: 2rem ;
 }
 
 .navbarLeft {
     text-align: right;
-}
-
-.aboutButton:hover{
-    transform: rotate(-360deg);
 }
 
 
