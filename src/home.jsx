@@ -13,7 +13,9 @@ function App() {
         <div className='contactContainer'>
               contact
               <br />
-              <a href="sebastianrosasbruno@gmail.com?Su.com"> </a>
+              <div className='email'>
+              <a  href="sebastianrosasbruno@gmail.com?Su.com">sebastianrosasbruno@gmail.com</a>
+              </div>
         </div>
       <Footer />
     </div>

@@ -9,8 +9,6 @@
 
 .aboutButton{
     cursor: pointer;
-    transition:.3s ease;
-    padding-right: 2rem ;
 }
 
 .navbarLeft {

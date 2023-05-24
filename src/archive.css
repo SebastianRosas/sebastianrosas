@@ -52,6 +52,29 @@
     padding-right: 0.5rem;
 }
 
+/* image hover */
+
+.container {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  
+  .image {
+    position: absolute;
+    top: 0;
+    left: 6rem;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 1000;
+    width: 150%;
+  }
+  
+  .container:hover .image {
+    opacity: 1;
+  }
+
 @media only screen and (max-width: 600px) {
    
     .columsContainer{
